@@ -1,5 +1,5 @@
 # Tab bar UI
-[Live demo tab bar](https://sanjaymagar.github.io/learn_ui/)
+[Live demo instagram tab bar](https://sanjaymagar.github.io/learn_ui/)
 
 > Insta Nav bar
 
